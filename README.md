@@ -23,6 +23,7 @@ Process and Journey:
 •	With the Data in hand then created a beautiful Dashboard of required information using wide range of visualisation components like Bars, Columns, Filters, Slicers etc... to get the important insights required.
 Insights: 
 •	The Dashboard was further broken down to three reports of Sales, Profit and Performance categories to simplify the Insights.
+
 •	Sales 
 1.	The sales and the Order Qty. were good with Delhi NCR while the markets like Bengal and Patna were underperforming.
 2.	The Sales have been considerably low from 2019 which was 336M to present year 2020 which had 142M affected due to COVID.
